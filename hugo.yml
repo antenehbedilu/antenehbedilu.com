@@ -2,3 +2,20 @@ baseURL: https://antenehbedilu.com/
 languageCode: en-us
 title: Anteneh
 theme: PaperMod
+
+params:
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    title: "Hey, I'm Anteneh 👋"
+    subtitle: "I'm a **backend developer** who specializes in **API development**." 
+  socialIcons:
+    - name: github
+      url: https://github.com/antenehbedilu/
+    - name: linkedin
+      url: https://www.linkedin.com/in/antenehbedilu/
+    - name: x
+      url: https://x.com/antenehbedilu/
+    - name: email
+      url: mailto:hello@antenehbedilu.com
+  hideFooter: true
